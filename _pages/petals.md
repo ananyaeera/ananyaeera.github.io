@@ -12,5 +12,7 @@ nav_order: 5
     {% include figure.liquid path="assets/img/flower1.jpg" class="img-fluid rounded" %}
     <p style="font-size: 0.8rem; text-align: center; margin-top: 4px;">lilies, hydrangeas, roses | 4.26.26</p>
   </div>
-  
+  <div style="break-inside: avoid; margin-bottom: 12px;">
+    {% include figure.liquid path="assets/img/flower2.jpg" class="img-fluid rounded" %}
+    <p style="font-size: 0.8rem; text-align: center; margin-top: 4px;">amelia and i's joint bouquet | 11.25.25</p>
 </div>
