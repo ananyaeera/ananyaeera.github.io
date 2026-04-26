@@ -1,7 +1,7 @@
 ---
 layout: page
 title: petals
-description: "Monet once said, "I must have flowers, always and always." Here are some bouquets I made!"
+description: "Monet once said, 'I must have flowers, always and always.' Here are some bouquets I made!"
 permalink: /petals/
 nav: true
 nav_order: 5
