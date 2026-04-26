@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-petals",
+          title: "petals",
+          description: "Monet once said, &#39;I must have flowers, always and always.&#39; Here are some bouquets I made!",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/petals/";
+          },
         },{id: "nav-people",
           title: "people",
           description: "executive board of my life",
