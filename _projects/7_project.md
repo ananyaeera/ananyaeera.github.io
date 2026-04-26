@@ -1,6 +1,6 @@
 ---
 layout: page
-title: jae, brooke, ananya 2026
+title: brooke, jae & ananya 2026
 description: with background image
 img: assets/img/4.jpg
 importance: 1
