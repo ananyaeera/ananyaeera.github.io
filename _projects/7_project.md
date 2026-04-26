@@ -33,9 +33,6 @@ My best friends from high school and I got to reunite. How lucky am I to have fr
     Art Institute, Brooksie & I at the beach and posing on Michigan Avenue. Scarf sponsored by Brooksie and leather jacket is Jae's. Clearly I still don't know how to dress for Chicago weather :p
 </div>
     </div>
-</div>
-</div>
-
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/bja4.jpeg" class="img-fluid rounded z-depth-1" %}
