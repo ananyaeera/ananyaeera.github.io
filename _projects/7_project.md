@@ -14,7 +14,7 @@ related_publications: true
 </div>
 One of the luckiest weekends of our lives :)
 
-My best friends from high school and I got to reunite. How lucky am I to have friends who have known (and loved me) since we were 15. We all had IB Film together with Mr. Dockall, where we ate snacks illegally and I either got too invested in the movie and screamed/cried/died laughing, or got bored and fell asleep, really no in between. Now, Brooke and Jae live in Washington D.C.
+My best friends from high school and I got to reunite. How lucky am I to have friends who have known (and loved me) since we were 15. We all had IB Film together with Mr. Dockall, where we ate snacks illegally and I either got too invested in the movie and screamed/cried/died laughing, or fell asleep, really no in between. Now, Brooke and Jae live in Washington D.C., where Brooke is a law student and Jae socializes with the wealthy and well-connected (Scandal, anyone?)!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,8 +40,6 @@ My best friends from high school and I got to reunite. How lucky am I to have fr
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/bja5.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-</div>
 
 
 {% raw %}
