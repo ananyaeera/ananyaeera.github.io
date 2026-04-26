@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: los angeles | chicago.
+subtitle: los angeles | chicago
 
 profile:
   align: right
