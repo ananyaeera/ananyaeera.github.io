@@ -423,9 +423,9 @@ ninja.data = [{
           section: "News",},{id: "news-sandro-botticelli-s-birth-of-venus",
           title: 'sandro botticelli’s birth of venus',
           description: "",
-          section: "News",},{id: "projects-flowers",
-          title: 'flowers',
-          description: "with background image",
+          section: "News",},{id: "projects-new-york-city-birthday-bash",
+          title: 'new york city birthday bash',
+          description: "november 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
