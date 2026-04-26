@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-My best friend Amelia and I got to celebrate our 23rd and 25th birthdays at Stafili in Tribeca with Tanya, Elefteria, and many more!
+Amelia and I got to celebrate our 23rd and 25th birthdays at Stafili in Tribeca with Tanya, Elefteria, Barbara and many more! Greek dishes were delectable, and was surrounded by the bestest of people.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
