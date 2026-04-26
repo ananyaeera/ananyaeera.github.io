@@ -1,6 +1,6 @@
 ---
 layout: page
-title: brooke, jae & ananya 2026
+title: brooke, jae, ananya 2026
 description: march 2026: art institute, bean, architecture tour
 img: assets/img/4.jpg
 importance: 1
