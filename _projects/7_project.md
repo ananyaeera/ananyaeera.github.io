@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "brooke, jae & ananya 2026"
+title: "brooke, jae & ananya reunite"
 description: "march 2026: art institute, bean, architecture tour"
 img: assets/img/4.jpg
 importance: 1
@@ -10,7 +10,7 @@ related_publications: true
 
 One of the luckiest weekends of our lives :)
 
-My best friends from high school and I got to reunite.
+My best friends from high school and I got to reunite. How lucky am I to have friends who have known (and loved me) since we were 15. We all had IB Film together with Mr. Dockall, where we ate snacks illegally and I either got too invested in the movie and screamed/cried/died laughing, or got bored and fell asleep, really no in between. Now, Brooke and Jae live in Washington D.C.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
