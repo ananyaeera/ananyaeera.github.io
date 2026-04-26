@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "brooke, jae, ananya 2026"
+title: "brooke, jae & ananya 2026"
 description: "march 2026: art institute, bean, architecture tour"
 img: assets/img/4.jpg
 importance: 1
@@ -26,7 +26,7 @@ My best friends from high school and I got to reunite.
         {% include figure.liquid loading="eager" path="assets/img/bja6.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Art Institute, Brooksie & I at the beach and posing on Michigan Avenue. Scarf sponsored by Brooksie and leather jacket is Jae's. Clearly I still don't know how to dress for Chicago weather :p
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
