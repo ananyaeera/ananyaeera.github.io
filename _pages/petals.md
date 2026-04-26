@@ -1,6 +1,7 @@
 ---
 layout: page
 title: petals
+description: "bouquets I made!"
 permalink: /petals/
 nav: true
 nav_order: 5
