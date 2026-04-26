@@ -1,7 +1,7 @@
 ---
 layout: page
 title: new york city birthday bash
-description: november 2025
+description: tribeca, manhattan | november 2025
 img: assets/img/four.jpg
 importance: 1
 category: work
