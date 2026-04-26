@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-petals",
-          title: "petals",
-          description: "bouquets I made!",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/petals/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "executive board of my life",
