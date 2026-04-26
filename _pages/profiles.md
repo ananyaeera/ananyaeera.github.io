@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: executive board of my life
 nav: true
 nav_order: 7
 
