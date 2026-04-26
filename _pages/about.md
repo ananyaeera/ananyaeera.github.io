@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-welcome and enjoy :) don't be shy, say hi!
+welcome--here, you'll see my flowers, postcards, and sweetest moments of life documented :) enjoy, don't be shy, say hi!
