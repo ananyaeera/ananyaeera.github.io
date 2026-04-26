@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Course materials, schedules, and resources for classes taught.",
@@ -39,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "executive board of my life",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -467,9 +460,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-brooke-jae-amp-ananya-2026",
-          title: 'brooke, jae &amp;amp; ananya 2026',
-          description: "with background image",
+            },},{id: "projects-brooke-jae-ananya-2026",
+          title: 'brooke, jae, ananya 2026',
+          description: "march 2026: art institute, bean, architecture tour",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
