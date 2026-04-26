@@ -1,7 +1,7 @@
 ---
 layout: page
 title: brooke, jae & ananya 2026
-description: with background image
+description: march 2026: art institute, bean, architecture tour
 img: assets/img/4.jpg
 importance: 1
 category: work
@@ -10,7 +10,7 @@ related_publications: true
 
 One of the luckiest weekends of our lives :)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+My best friends from high school and I got to reunite.
 
     ---
     layout: page
