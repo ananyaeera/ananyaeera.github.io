@@ -425,7 +425,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-new-york-city-birthday-bash",
           title: 'new york city birthday bash',
-          description: "november 2025",
+          description: "tribeca, manhattan | november 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
