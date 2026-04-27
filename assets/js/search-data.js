@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-paladares",
           title: "paladares",
-          description: "cafes and eateries i&#39;ve loved",
+          description: "my culinary adventures of cafes and eateries i&#39;ve loved",
           section: "Navigation",
           handler: () => {
             window.location.href = "/paladares/";
