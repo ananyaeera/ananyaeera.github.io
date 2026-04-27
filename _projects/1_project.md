@@ -22,7 +22,7 @@ Amelia and I got to celebrate our 23rd and 25th birthdays at Stafili in Tribeca 
     </div>
 </div>
 <div class="caption">
-    Tanya, Amelia and I + cake that Amelia made + hearts by Tanyaki Mou and I
+    Tanya, Amelia and I + cake and personalized menus that Amelia made + hearts by Tanyaki Mou and I
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
