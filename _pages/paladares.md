@@ -29,7 +29,7 @@ description: cafes and eateries i've loved
     </div>
   </div>
 
-  <p style="font-size: 0.85rem; margin-top: 12px;">Your review here ✨</p>
+  <p style="font-size: 0.85rem; margin-top: 12px;">Stumbled upon this cutest cafe. Dixie the maitre d'hotel was so sweet. Tomato soup + cheesy baguette is my favorite, and their hot chocolate (not pictured) was delightful. Lots of Upper East Side locals, and short steps away from Central Park for a digestion walk, but nestled enough so it's cozy and neighborhood feel. I love it! </p>
 </div>
 
 <hr style="margin: 32px 0; border-color: #f9c4d2;">
