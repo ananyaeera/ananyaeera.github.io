@@ -4,12 +4,12 @@ title: paladares
 permalink: /paladares/
 nav: true
 nav_order: 6
-description: cafes and eateries i've loved
+description: my culinary adventures of cafes and eateries i've loved
 ---
 
 <div style="margin-bottom: 40px;">
   <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Cafe August</p>
-  <p style="font-size: 0.85rem; color: #c9184a; margin-top: -8px; margin-bottom: 12px;">📍 Upper East Side, Manhattan</p>
+  <p style="font-size: 0.85rem; color: #c9184a; margin-top: -8px; margin-bottom: 12px;">📍Upper East Side, Manhattan</p>
 
   <div class="row row-cols-3 g-2">
     <div class="col">
