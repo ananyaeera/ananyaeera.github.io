@@ -33,3 +33,30 @@ description: my culinary adventures of cafes and eateries i've loved
 </div>
 
 <hr style="margin: 32px 0; border-color: #f9c4d2;">
+
+<div style="margin-bottom: 40px;">
+  <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Dishoom</p>
+  <p style="font-size: 0.85rem; color: #c9184a; margin-top: -8px; margin-bottom: 12px;">📍London, United Kingdom</p>
+
+  <div class="row row-cols-3 g-2">
+    <div class="col">
+      <a href="{{ '/assets/img/dishoom1.jpg' | relative_url }}" data-lightbox="dishoom1">
+        <img src="{{ '/assets/img/dishoom1.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/dishoom2.jpg' | relative_url }}" data-lightbox="dishoom2">
+        <img src="{{ '/assets/img/dishoom2.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/dishoom3.jpg' | relative_url }}" data-lightbox="dishoom3">
+        <img src="{{ '/assets/img/dishoom3.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+  </div>
+
+  <p style="font-size: 0.85rem; margin-top: 12px;">My Indian parents hate eating out, let alone at Indian restaurants. I dragged them to Dishoom, and they loved it so much, they made us go back four times. I loved the old Bombay Iranian cafe vibe of the restaurant, genuinely best Indian restaurant I've ever been to.</p>
+</div>
+
+<hr style="margin: 32px 0; border-color: #f9c4d2;">
