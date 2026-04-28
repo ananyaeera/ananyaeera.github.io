@@ -419,15 +419,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-sandro-botticelli-s-birth-of-venus-aka-my-website",
+            },},{id: "news-sandro-botticelli-s-birth-of-venus-aka-my-website",
           title: 'sandro botticelli’s birth of venus aka my website',
           description: "",
           section: "News",},{id: "projects-new-york-city-birthday-bash",
