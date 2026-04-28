@@ -22,3 +22,5 @@ latest_posts:
 ---
 
 welcome--here, you'll see my flowers, postcards, and sweetest moments of life documented :) enjoy, don't be shy, say hi!
+
+feel free to say hello: aeeraveni@gmail.com
