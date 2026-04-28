@@ -56,7 +56,7 @@ description: my culinary adventures of cafes and eateries i've loved
     </div>
   </div>
 
-  <p style="font-size: 0.85rem; margin-top: 12px;">My Indian parents hate eating out, let alone at Indian restaurants. I dragged them to Dishoom, and they loved it so much, they made us go back four times. I loved the old Bombay Iranian cafe vibe of the restaurant, genuinely best Indian restaurant I've ever been to.</p>
+  <p style="font-size: 0.85rem; margin-top: 12px;">My Indian parents hate eating out, let alone at Indian restaurants. I dragged them to Dishoom, and they loved it so much, they made us go back four times. I loved the old, lush Bombay Irani cafe energy, amber lighting, walls covered in Hindi, parents loved the chai. Genuinely reminded me of India, and best Indian restaurant I've ever been to.</p>
 </div>
 
 <hr style="margin: 32px 0; border-color: #f9c4d2;">
