@@ -21,6 +21,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-welcome--here, you'll see my flowers, postcards, and sweetest moments of life documented :) enjoy, don't be shy, say hi!
+welcome--here, you'll see my petals, postcards and ponderings of life documented :) enjoy, don't be shy, say hi!
 
 feel free to say hello: aeeraveni@gmail.com
