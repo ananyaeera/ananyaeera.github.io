@@ -1,7 +1,7 @@
 ---
 layout: page
 title: summering in london
-description: london, uk|may 2025
+description: london, uk | may 2025
 img: assets/img/mirror.jpg
 importance: 2
 category: work
