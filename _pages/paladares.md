@@ -29,7 +29,7 @@ description: my culinary adventures of cafes and eateries i've loved
     </div>
   </div>
 
-  <p style="font-size: 0.85rem; margin-top: 12px;">Stumbled upon this cutest cafe. Dixie the maitre d'hotel was so sweet. Tomato soup + cheesy baguette is my favorite, and their hot chocolate (not pictured) was delightful. Lots of Upper East Side locals, and short steps away from Central Park for a digestion walk, but cozily nestled in the neighborhood. Chef's kiss! </p>
+  <p style="font-size: 0.85rem; margin-top: 12px;">Stumbled upon this cutest cafe. Dixie the maitre d'hotel was so sweet. Tomato soup + cheesy baguette is my favorite, and their hot chocolate (not pictured) was delightful. Lots of Upper East Side locals, and a lovely 15 min digestion walk away from Central Park for an even longer digestion walk (if you know me, you know I love DWs), but cozily nestled in the neighborhood. One day. </p>
 </div>
 
 <hr style="margin: 32px 0; border-color: #f9c4d2;">
@@ -56,7 +56,7 @@ description: my culinary adventures of cafes and eateries i've loved
     </div>
   </div>
 
-  <p style="font-size: 0.85rem; margin-top: 12px;">My Indian parents hate eating out, let alone at Indian restaurants. I dragged them to Dishoom, and they loved it so much, they made us go back four times. I loved the old, lush Bombay Irani cafe energy, amber lighting, walls covered in Hindi, parents loved the chai. Genuinely reminded me of India, and best Indian restaurant I've ever been to.</p>
+  <p style="font-size: 0.85rem; margin-top: 12px;">My Indian parents hate eating out, let alone at Indian restaurants. I dragged them to Dishoom, and they loved it so much, they made us go back four times. I loved the old, lush Bombay Irani cafe energy, amber lighting, walls covered in Hindi, parents loved the chai. Genuinely reminded me of India, and best Indian restaurant I've ever been to. Maybe the British did learn a thing or two. Now give back our diamond.</p>
 </div>
 
 <hr style="margin: 32px 0; border-color: #f9c4d2;">
