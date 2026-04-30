@@ -29,7 +29,7 @@ description: my culinary adventures of cafes and eateries i've loved
     </div>
   </div>
 
-  <p style="font-size: 0.85rem; margin-top: 12px;">Stumbled upon this cutest cafe. Dixie the maitre d'hotel was so sweet. Tomato soup (which looks like a bright intense sunset I want to eat) + cheesy baguette is my favorite, and their hot chocolate (not pictured but so chocalatey) was delightful. Lots of Upper East Side locals, and a lovely 15 min digestion walk away from Central Park for an even longer digestion walk (if you know me, you know I love DWs), but cozily nestled in the neighborhood. One day. (No I'm not finishing that sentence). </p>
+  <p style="font-size: 0.85rem; margin-top: 12px;">Stumbled upon this cutest cafe. Dixie the maitre d'hotel was so sweet. Tomato soup (which looks like a bright intense sunset I want to eat) + cheesy baguette is my favorite, and their hot chocolate (not pictured but so chocolatey) was delightful. Lots of Upper East Side locals, and a lovely 15 min digestion walk away from Central Park for an even longer digestion walk (if you know me, you know I love DWs), but cozily nestled in the neighborhood. One day. (No I'm not finishing that sentence). </p>
 </div>
 
 <hr style="margin: 32px 0; border-color: #f9c4d2;">
