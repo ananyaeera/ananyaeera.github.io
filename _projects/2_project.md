@@ -2,7 +2,7 @@
 layout: page
 title: summering in london
 description: london, uk | may 2025
-img: assets/img/mirror.jpg
+img: assets/img/bookstore.jpg
 importance: 2
 category: work
 giscus_comments: true
@@ -27,11 +27,10 @@ My mom, dad and I went to London for the first time. I absolutely loved it. My p
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mirror.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
 You can also put regular text between your rows of images.
