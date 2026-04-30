@@ -47,7 +47,7 @@ My mom, dad and I went to London for the first time. I absolutely loved it. My p
 
 </div>
 <div class="caption">
-    soft sunlight on my deep red mini and pearls + peering through Greek park + golden hour in a dark academia bookstore 
+    soft sunlight on my deep red mini and pearls + strolling through Green Park + golden hour in a dark academia bookstore 
 </div>
 
 
