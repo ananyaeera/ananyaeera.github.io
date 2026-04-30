@@ -429,7 +429,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-summering-in-london",
           title: 'summering in london',
-          description: "london, uk|may 2025",
+          description: "london, uk | may 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
