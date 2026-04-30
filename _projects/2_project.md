@@ -11,13 +11,13 @@ My mom, dad and I went to London for the first time. I absolutely loved it. My p
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/rose.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/rents.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/hydrangea.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mummy.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rose.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     
 </div>
@@ -31,6 +31,7 @@ My mom, dad and I went to London for the first time. I absolutely loved it. My p
     </div>
 </div>
 <div class="caption">
+    If you say Kohinoor three times in the mirror, she appears 
 </div>
 
 <div class="row">
@@ -43,6 +44,8 @@ My mom, dad and I went to London for the first time. I absolutely loved it. My p
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/copper.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+
+The soft, glowy sunlight was hitting my purse and earrings. The world is so pretty. How could anyone not be in love with the natural beauty out there (sometimes I am indoors though, I will admit)? I also love dark academia-esque, old bookstores (I even love the University of Chicago Regenstein Library, and not because I'm trauma bonded to it).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
