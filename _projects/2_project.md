@@ -22,7 +22,7 @@ My mom, dad and I went to London for the first time. I absolutely loved it. My p
     
 </div>
 <div class="caption">
-    Roses galore + my stylish, gorgeous, incredible, remarkable mummy and also my Dad + my personal blue hydrangea heaven
+     My stylish, gorgeous, incredible, remarkably intelligent, cutest mummy and also my Dad (he's funny sometimes)
 </div>
 
 <div class="row">
@@ -72,3 +72,19 @@ As much as I loved strutting around London, I must admit the horrors of British 
 I perceived my parents and I as silly and naive every time we marvelled at something beautiful in the city, because the beauty was ours all along. The ornate, elegant architecture, the manicured parks, the regal, grand museums; bloody at best.
 
 Not to mention, the British Museum made me realize how many artifacts the British looted from practically everyone around the world. I found it hilarious that an employee stopped me when I was taking a photo of the Kohinoor Diamond. Like girl, this ain't even yours to begin with.  DaFuq catch me if you can. I took the picture anyway.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/windowflower.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/daunt.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/hydrangea.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    
+</div>
+<div class="caption">
+    pink and red pockets of sunshine + my favorite tote from Marylebone Daunt Books + blue hydrangea heaven
+</div>
