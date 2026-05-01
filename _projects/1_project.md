@@ -36,15 +36,12 @@ Amelia and I got to celebrate our 23rd and 25th birthdays at Stafili in Tribeca 
 Such an amazing birthday. I have spent every Thanksgiving for the past 3 years in New York City. How lucky I am to celebrate with my best friends in my favorite city in the whole world and that all of us were able to spontaneously make it happen this weekend. I love being young and I love life more than anything. 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/jack.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rushmore.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/farted.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Me FaceTiming our friend Jack after 8 years of not talking to him (he moved to Italy to pursue art school) + Mount Rushmore ahh + someone farted in the elevator and we died laughing
+    Mount Rushmore ahh + someone farted in the elevator and we died laughing
