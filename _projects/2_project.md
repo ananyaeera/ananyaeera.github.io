@@ -69,9 +69,9 @@ My mom, dad and I went to London for the first time. I absolutely loved it. My p
 
 As much as I loved strutting around London, I must admit the horrors of British colonialism and its bloody, brutal history of stealing tyrannical, gluttonous amounts of wealth from India and Africa was on the back of my mind. Compared to the racial and ethnic demographics in America, what struck me most about London was that I'd often see Indian, Afghani, Pakistani, and African-diaspora immigrants as minimum-wage service workers: the ones folding napkins at restaurants, scanning tickets at tube stations, hauling luggage at hotels. Obviously, their home countries were relentlessly destabilized and squeezed dry of labor, land, gold, and resources by the very empire that built this gleamingly prim and proper city, and still their underpaid descendants were keeping the whole machine running tidily for tourists like myself.
 
-I perceived my parents and I as silly and naive every time we marvelled at something beautiful in the city, because the beauty was ours all along. The ornate, elegant architecture, the manicured parks, the regal, grand museums; bloody at best.
+I perceived my parents and I as silly and naive every time we marvelled at something beautiful in the city, because the beauty was never theirs. The ornate, elegant architecture, the manicured parks, the royal, grand museums; bloody at best.
 
-Not to mention, the British Museum made me realize how many artifacts the British looted from practically everyone around the world. I found it hilarious that an employee stopped me when I was taking a photo of the Kohinoor Diamond. Like girl, this ain't even yours to begin with.  DaFuq catch me if you can. I took the picture anyway.
+Not to mention, the British Museum made me realize how many artifacts the British looted from practically everyone around the world. I found it hilarious that an employee stopped me when I was taking a photo of the Kohinoor Diamond. Like girl dis ain't even yours to begin with DaFuq. Catch me if you can. I took the picture anyway.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
