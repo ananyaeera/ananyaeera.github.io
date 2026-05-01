@@ -67,8 +67,8 @@ description: my culinary adventures of cafes and eateries i've loved
 
   <div class="row row-cols-3 g-2">
     <div class="col">
-      <a href="{{ '/assets/img/ralph1.jpg' | relative_url }}" data-lightbox="ralph1">
-        <img src="{{ '/assets/img/ralph1.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      <a href="{{ '/assets/img/ralph1.jpeg' | relative_url }}" data-lightbox="ralph1">
+        <img src="{{ '/assets/img/ralph1.jpeg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
       </a>
     </div>
     <div class="col">
