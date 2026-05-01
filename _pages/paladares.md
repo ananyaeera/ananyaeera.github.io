@@ -9,7 +9,7 @@ description: my culinary adventures of cafes and eateries i've loved
 
 <div style="margin-bottom: 40px;">
   <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Cafe August</p>
-  <p style="font-size: 0.85rem; color: #c9184a; margin-top: -8px; margin-bottom: 12px;">📍Upper East Side, Manhattan</p>
+  <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍Upper East Side, Manhattan</p>
 
   <div class="row row-cols-3 g-2">
     <div class="col">
@@ -36,7 +36,7 @@ description: my culinary adventures of cafes and eateries i've loved
 
 <div style="margin-bottom: 40px;">
   <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Dishoom</p>
-  <p style="font-size: 0.85rem; color: #c9184a; margin-top: -8px; margin-bottom: 12px;">📍London, United Kingdom</p>
+  <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍London, United Kingdom</p>
 
   <div class="row row-cols-3 g-2">
     <div class="col">
@@ -57,6 +57,33 @@ description: my culinary adventures of cafes and eateries i've loved
   </div>
 
   <p style="font-size: 0.85rem; margin-top: 12px;">My Indian parents hate eating out, let alone at Indian restaurants. I dragged them to Dishoom, and they loved it so much, they made us go back four times. I loved the old, lush Bombay Irani cafe energy, amber lighting, walls covered in Hindi, parents loved the chai. Genuinely reminded me of India, and best Indian restaurant I've ever been to. Maybe the British did learn a thing or two. Now give back our diamond.</p>
+</div>
+
+<hr style="margin: 32px 0; border-color: #f9c4d2;">
+
+<div style="margin-bottom: 40px;">
+  <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Ralph's Coffee</p>
+  <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍Upper East Side, Manhattan</p>
+
+  <div class="row row-cols-3 g-2">
+    <div class="col">
+      <a href="{{ '/assets/img/ralph1.jpg' | relative_url }}" data-lightbox="ralph1">
+        <img src="{{ '/assets/img/ralph1.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/ralph2.jpg' | relative_url }}" data-lightbox="ralph2">
+        <img src="{{ '/assets/img/ralph2.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/ralph3.jpg' | relative_url }}" data-lightbox="ralph3">
+        <img src="{{ '/assets/img/ralph3.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+  </div>
+
+  <p style="font-size: 0.85rem; margin-top: 12px;"> Tanya, her little sisters, and I went to Ralph's Coffee. To be honest, not my favorite place. Wait time was long for us to sit. I got a lemon bread, it was okay. Hot chocolate could have been richer, not my favorite. It was very cute inside, and I appreciated their jazz music, and the food itself looked cute, but I didn't love it. I just love this photo with Tanyaki Mou.</p>
 </div>
 
 <hr style="margin: 32px 0; border-color: #f9c4d2;">
