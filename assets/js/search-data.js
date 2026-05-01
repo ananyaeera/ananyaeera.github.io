@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/petals/";
           },
-        },{id: "nav-postcards",
-          title: "postcards",
-          description: "I collect postcards with travel-vintage-retro-artsy art because I find them darling, they&#39;ve been around forever, and they will beautifully adorn any bare walls. I am ruthless with the postcards I select. Here are the stories behind my collection. If I have ever gifted you a postcard, you are dear to me.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/petals/";
-          },
         },{id: "nav-paladares",
           title: "paladares",
           description: "my culinary adventures of cafes and eateries i&#39;ve loved",
