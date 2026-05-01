@@ -43,7 +43,9 @@ Brooke and Jae are my best friends from high school, and after years, we finally
     A photo Jae would show his kids ("I am too selfish to be a dad" -Jae)
 </div>
 
-High school was tumultuous. I would never go back. I was adamant on leaving, which I am incredibly grateful I got the opportunity to. Brooke and Jae made that period bearable and even enjoyable. We all had IB Film together with Mr. Dockall, where we ate snacks illegally and I either got too invested in the movie and screamed, or fell asleep, really no in between. 
+High school was tumultuous. I would never go back. I was adamant on leaving as soon as I could, which I am incredibly grateful I did. I don't feel a particular fondness for my hometown or when I must reminisce about high school. Sometimes you just know something isn't right for you and never will be. 
+
+Brooke and Jae made that period bearable and even enjoyable. I cherish them a lot and the stupid, hilarious memories we had together. We all had IB Film together with Mr. Dockall, where we made films, ate snacks illegally and I either got too invested in the movie and screamed, or fell asleep, really no in between. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
