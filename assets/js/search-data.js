@@ -432,9 +432,9 @@ ninja.data = [{
           description: "london, uk | may 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-trio-reunited",
+          title: 'trio reunited',
+          description: "chicago | march 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
