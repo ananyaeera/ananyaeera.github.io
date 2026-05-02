@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: sweetest moments
+description: How lucky I am to experience life with my best friends.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
