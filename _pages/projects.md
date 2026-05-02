@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: How lucky I am to experience life with my best friends.
+description: How lucky I am to experience life with my best friends. See my adventures below :)
 nav: true
 nav_order: 3
 display_categories: [work, fun]
