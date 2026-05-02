@@ -4,7 +4,7 @@ title: paladares
 permalink: /paladares/
 nav: true
 nav_order: 6
-description: my culinary adventures of cafes and eateries i've loved
+description: Paladar is Cuban for intimate cafe or eatery. I've adopted it here to discuss any place I felt was significant enough to review. Enjoy :)
 ---
 
 <div style="margin-bottom: 40px;">
@@ -83,7 +83,7 @@ description: my culinary adventures of cafes and eateries i've loved
     </div>
   </div>
 
-  <p style="font-size: 0.85rem; margin-top: 12px;"> Tanya, her little sisters, and I went to Ralph's Coffee. To be honest, not my favorite place. Wait time was long for us to sit. I got a lemon bread, it was okay. Hot chocolate could have been richer, not my favorite. It was very cute inside, and I appreciated their jazz music, and the food itself looked cute, but I didn't love it. I just love this photo with Tanyaki Mou.</p>
+  <p style="font-size: 0.85rem; margin-top: 12px;"> Tanya, her little sisters, and I went to Ralph's Coffee. To be honest, not my favorite place. Wait time was long for us to sit. I got a lemon bread, it was okay, sort of dry. Hot chocolate could have been richer, not my favorite. It was very cute inside, and I appreciated their jazz music, and the food itself looked cute, but I didn't love it. I quite dislike when places look cute but don't substantially delivery. I just love this photo with Tanyaki Mou.</p>
 </div>
 
 <hr style="margin: 32px 0; border-color: #f9c4d2;">
