@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-paladares",
           title: "paladares",
-          description: "my culinary adventures of cafes and eateries i&#39;ve loved",
+          description: "Paladar is Cuban for intimate cafe or eatery. I&#39;ve adopted it here to discuss any place I felt was significant enough to review. Enjoy :)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/paladares/";
