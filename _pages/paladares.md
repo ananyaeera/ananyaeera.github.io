@@ -13,7 +13,7 @@ description: Paladar is Cuban for intimate cafe or eatery. I've adopted it here 
   <div class="row row-cols-3 g-2">
     <div class="col">
       <a href="{{ '/assets/img/proper lea1.jpg' | relative_url }}" data-lightbox="proper lea1">
-        <img src="{{ '/assets/img/lea1.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+        <img src="{{ '/assets/img/proper lea1.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
       </a>
     </div>
     <div class="col">
