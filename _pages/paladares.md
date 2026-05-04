@@ -12,23 +12,23 @@ description: Paladar is Cuban for intimate cafe or eatery. I've adopted it here 
 
   <div class="row row-cols-3 g-2">
     <div class="col">
+      <a href="{{ '/assets/img/proper lea1.jpg' | relative_url }}" data-lightbox="proper lea1">
+        <img src="{{ '/assets/img/lea1.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
       <a href="{{ '/assets/img/lea1.jpg' | relative_url }}" data-lightbox="lea1">
         <img src="{{ '/assets/img/lea1.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
       </a>
     </div>
     <div class="col">
-      <a href="{{ '/assets/img/lea2.jpg' | relative_url }}" data-lightbox="lea2">
-        <img src="{{ '/assets/img/lea2.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
-      </a>
-    </div>
-    <div class="col">
-      <a href="{{ '/assets/img/lea3.jpg' | relative_url }}" data-lightbox="lea3">
-        <img src="{{ '/assets/img/lea3.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      <a href="{{ '/assets/img/proper lea3.jpg' | relative_url }}" data-lightbox="proper lea3">
+        <img src="{{ '/assets/img/proper lea3.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
       </a>
     </div>
   </div>
 
-  <p style="font-size: 0.85rem; margin-top: 12px;">This is my favorite café in Chicago. I LOVE this place. My favorite dish is the Le Croque Madame, an open-face sandwich with ham, melted swiss, fried egg, béchamel sauce, and parsley (yes, I eat pork recreationally now), and it is just absolutely delicious, one of the best things mankind has ever created. They always play lovely classical music, so your mood isn't getting ruined by the songs (I despise when this happens). The art inside is adorable, and savoring your croque by the window on a gorgeous Chicago day is just beautiful. Enjoy Alirio mid-laugh with his coffee, which he quite liked (very impressive from a Venezuelan who's a coffee lover). </p>
+  <p style="font-size: 0.85rem; margin-top: 12px;">This is my favorite café in Chicago. I LOVE this place. My favorite dish is the Le Croque Madame, an open-face sandwich with ham, melted swiss, fried egg, béchamel sauce, and parsley (yes, I eat pork recreationally now). It is just delicious, one of the best things mankind has ever created. They always play lovely classical music, so your mood isn't getting ruined by the songs (I despise when this happens). The art inside is perfect, and savoring your croque by the window on a gorgeous Chicago day is beautiful. Enjoy my great friend Alirio mid-laugh with his coffee, which he quite liked (very impressive from a Venezuelan who's a coffee lover). I want to rewatch Ratatouille after eating here.</p>
 </div>
 
 <hr style="margin: 32px 0; border-color: #f9c4d2;">
