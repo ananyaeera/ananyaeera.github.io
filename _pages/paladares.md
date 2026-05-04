@@ -6,7 +6,32 @@ nav: true
 nav_order: 6
 description: Paladar is Cuban for intimate cafe or eatery. I've adopted it here to discuss any place I felt was significant enough to review. Enjoy :)
 ---
+<div style="margin-bottom: 40px;">
+  <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Léa French Cafe | May 3rd, 2026</p>
+  <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍Michigan Ave, South Loop, Chicago</p>
 
+  <div class="row row-cols-3 g-2">
+    <div class="col">
+      <a href="{{ '/assets/img/lea1.jpg' | relative_url }}" data-lightbox="lea1">
+        <img src="{{ '/assets/img/lea1.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/lea2.jpg' | relative_url }}" data-lightbox="lea2">
+        <img src="{{ '/assets/img/lea2.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/lea3.jpg' | relative_url }}" data-lightbox="lea3">
+        <img src="{{ '/assets/img/lea3.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+  </div>
+
+  <p style="font-size: 0.85rem; margin-top: 12px;">This is my favorite café in Chicago. I LOVE this place. My favorite dish is the Le Croque Madame, an open-face sandwich with ham, melted swiss, fried egg, béchamel sauce, and parsley (yes, I eat pork recreationally now), and it is just absolutely delicious, one of the best things mankind has ever created. They always play lovely classical music, so your mood isn't getting ruined by the songs (I despise when this happens). The art inside is adorable, and savoring your croque by the window on a gorgeous Chicago day is just beautiful. Enjoy Alirio mid-laugh with his coffee, which he quite liked (very impressive from a Venezuelan who's a coffee lover). </p>
+</div>
+
+<hr style="margin: 32px 0; border-color: #f9c4d2;">
 <div style="margin-bottom: 40px;">
   <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Cafe August</p>
   <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍Upper East Side, Manhattan</p>
