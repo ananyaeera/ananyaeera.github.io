@@ -24,3 +24,12 @@ latest_posts:
 welcome--here, you'll see my petals, postcards and ponderings of life documented :) enjoy, don't be shy, say hi!
 
 feel free to say hello: aeeraveni@gmail.com
+
+current ponderings:
+-trying to keep my promises to myself
+-telling myself i'm 23 and there's no rush
+-exploring new hobbies and making new friends
+-living by courtesy, integrity, perseverance, self control, indomitable spirit
+-not taking care of my body has a price
+-trying to fall in love with chicago
+-being excellent at what i do
