@@ -29,7 +29,4 @@ current ponderings:
 -trying to keep my promises to myself
 -telling myself i'm 23 and there's no rush
 -exploring new hobbies and making new friends
--living by courtesy, integrity, perseverance, self control, indomitable spirit
--not taking care of my body has a price
 -trying to fall in love with chicago
--being excellent at what i do
