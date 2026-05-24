@@ -1,13 +1,17 @@
 ---
 layout: page
-title: trio reunited
-description: chicago | march 2026
-img: assets/img/newbja.jpg
+title: my monthlong escapade to manhattan
+description: nyc | feb 2026
+img: assets/img/manhattan.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
-Brooke and Jae are my best friends from high school, and after years, we finally got to reunite. How lucky am I to have friends I've loved and who've loved me since we were 15. Now, Brooke and Jae live in Washington D.C., where Brooke is a Georgetown law student and Jae essentially socializes with the wealthy and well-connected (if you’re reading this, how da Hyel are you employed and in Belize on a random Tuesday). 
+I escaped to Manhattan for a month. Whenever I am in NYC, I feel like myself and so at home. Of course, I spent the month with my husband, Amelia, frolic with my beautiful close girlfriends Elefteria and Barbara, enjoy Valentine's Day with Michelle (which we oddly celebrated together exactly 5 years ago), catch up with Anusha after years, and of course, enjoy a stroll in Central Park with one of my best friends, Ikenna.
+
+I've never danced before, but I began going to bhangra classes and I absolutely loved it. No, I don't care that it's my first time, I had so much fun and I met so many amazing people (mabrook in advance to Sasha and Saif, to be married!). I made a new friend from dance, Arya, who is the next Amal Clooney: gorgeous, crazy intelligent, NYU student and to-be-lawyer. We enjoyed a splendid day around Washington Square Park, had Hani's Bakery, lovely sweets and the best burrata pizza of my entire life, and found a cute Korean photo booth. 
+
+Nilay and I also became besties on this trip--he's an investment banker and Williams College grad who is insanely good at accents. I consider him my twin because he's half Telugu and our last names (which are both extremely unique by the way) are eerily similar.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
