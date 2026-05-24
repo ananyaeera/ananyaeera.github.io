@@ -7,6 +7,17 @@ importance: 2
 category: work
 giscus_comments: true
 ---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vogue.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/manhattan.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/roses.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    
 I escaped to Manhattan for a month. Whenever I am in NYC, I feel like myself and so at home. Of course, I spent the month with my husband, Amelia, frolic with my beautiful close girlfriends Elefteria and Barbara, enjoy Valentine's Day with Michelle (which we oddly celebrated together exactly 5 years ago), catch up with Anusha after years, and of course, enjoy a stroll in Central Park with one of my best friends, Ikenna.
 
 I've never danced before, but I began going to bhangra classes and I absolutely loved it. No, I don't care that it's my first time, I had so much fun and I met so many amazing people (mabrook in advance to Sasha and Saif, to be married!). I made a new friend from dance, Arya, who is the next Amal Clooney: gorgeous, crazy intelligent, NYU student and to-be-lawyer. We enjoyed a splendid day around Washington Square Park, had Hani's Bakery, lovely sweets and the best burrata pizza of my entire life, and found a cute Korean photo booth. 
@@ -23,17 +34,14 @@ I went on three dates for fun. I had one of the coolest first dates ever, where 
         {% include figure.liquid loading="eager" path="assets/img/soho.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/roses.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/temple.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     
-</div>
-<div class="caption">
-     Me at dance + stroll in SoHo + Elefteria's man's gift to her (THANK YOU CHRISSS))
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/vogue.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/wall.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/lilies.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -43,25 +51,3 @@ I went on three dates for fun. I had one of the coolest first dates ever, where 
     </div>
 
 </div>
-<div class="caption">
-    Love my sunnies in the winter + my favorite flowers + Arya and I's Statue of Liberty ahh photobooth pics
-</div>
-
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/michamelia.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plate.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/burrata.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-
-</div>
-<div class="caption">
-   Michelle, Amelia and I at Joyface (really great 70s themed dancing bar) + chocolate strawberries I made for my husband + Arya and I devour burrata pizza
-</div>
-
