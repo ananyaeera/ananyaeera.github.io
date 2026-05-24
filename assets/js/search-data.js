@@ -425,9 +425,9 @@ ninja.data = [{
           description: "london, uk | may 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-trio-reunited",
-          title: 'trio reunited',
-          description: "chicago | march 2026",
+            },},{id: "projects-my-monthlong-escapade-to-manhattan",
+          title: 'my monthlong escapade to manhattan',
+          description: "nyc | feb 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
