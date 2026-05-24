@@ -11,7 +11,9 @@ I escaped to Manhattan for a month. Whenever I am in NYC, I feel like myself and
 
 I've never danced before, but I began going to bhangra classes and I absolutely loved it. No, I don't care that it's my first time, I had so much fun and I met so many amazing people (mabrook in advance to Sasha and Saif, to be married!). I made a new friend from dance, Arya, who is the next Amal Clooney: gorgeous, crazy intelligent, NYU student and to-be-lawyer. We enjoyed a splendid day around Washington Square Park, had Hani's Bakery, lovely sweets and the best burrata pizza of my entire life, and found a cute Korean photo booth. 
 
-Nilay and I also became besties on this trip--he's an investment banker and Williams College grad who is insanely good at accents. I consider him my twin because he's half Telugu and our last names (which are both extremely unique by the way) are eerily similar.
+Nilay and I also met on this trip and became besties--he's an investment banker and Williams College grad who is insanely good at accents. I consider him my twin because he's half Telugu and half Gujarati and our last names (which are both extremely unique by the way) are eerily similar.
+
+I went on three dates for fun. I had one of the coolest first dates ever, where we went art gallery hopping in Chelsea--I loved critqiuing the art with him and I felt like a kid again because we laughed a ton. It was the most gorgeous lilac and orange sunset on our walk after, and the ice cream shop girl told me I was pretty which made my day. It was a very human experience. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
