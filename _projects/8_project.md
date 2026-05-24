@@ -2,7 +2,7 @@
 layout: page
 title: trio reunited
 description: chicago | march 2026
-img: assets/img/newbja.jpg
+img: assets/img/newbja.jpeg
 importance: 2
 category: work
 giscus_comments: true
