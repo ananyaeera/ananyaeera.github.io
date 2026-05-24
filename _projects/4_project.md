@@ -2,9 +2,9 @@
 layout: page
 title: project 4
 description: another without an image
-img:
+img: hatty
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
