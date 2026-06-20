@@ -7,6 +7,32 @@ nav_order: 6
 description: Paladar is Cuban for intimate cafe or eatery. I've adopted it here to discuss any place I felt was significant enough to review. Enjoy :)
 ---
 <div style="margin-bottom: 40px;">
+  <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Cafe C | June 20th, 2026</p>
+  <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍West Village, Manhattan</p>
+
+  <div class="row row-cols-3 g-2">
+    <div class="col">
+      <a href="{{ '/assets/img/proper ham.jpg' | relative_url }}" data-lightbox="proper ham">
+        <img src="{{ '/assets/img/proper ham.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/melita.jpg' | relative_url }}" data-lightbox="melita">
+        <img src="{{ '/assets/img/melita.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/proper cafec.jpg' | relative_url }}" data-lightbox="proper cafec">
+        <img src="{{ '/assets/img/proper cafec.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+  </div>
+
+  <p style="font-size: 0.85rem; margin-top: 12px;">One of Amelia and I's favorite little French cafes in West Village. We love the ham and gruyere crepe. It is so filling and so delicious and rich. Would come back here again and again. Just lovely for a Saturday afternoon after a long walk, and an even longer digestion walk following the crepe.</p>
+</div>
+
+
+<div style="margin-bottom: 40px;">
   <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Léa French Cafe | May 3rd, 2026</p>
   <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍Michigan Ave, South Loop, Chicago</p>
 
