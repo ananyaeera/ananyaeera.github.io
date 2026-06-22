@@ -6,18 +6,12 @@ permalink: /petals/
 nav: true
 nav_order: 5
 ---
-<div style="columns: 2; gap: 12px;">
-
-  <div style="break-inside: avoid; margin-bottom: 12px;">
-    {% include figure.liquid path="assets/img/peonies.jpg" class="img-fluid rounded" %}
-    <p style="font-size: 0.8rem; text-align: center; margin-top: 4px;">lilies, hydrangeas, roses | 6.22.26</p>
+<div style="columns: 3; gap: 12px;">
   </div>
     <div style="break-inside: avoid; margin-bottom: 12px;">
     {% include figure.liquid path="assets/img/flower1.jpg" class="img-fluid rounded" %}
     <p style="font-size: 0.8rem; text-align: center; margin-top: 4px;">lilies, hydrangeas, roses | 4.26.26</p>
-      
-<div style="columns: 2; gap: 12px;">
-
+  </div> 
   <div style="break-inside: avoid; margin-bottom: 12px;">
     {% include figure.liquid path="assets/img/flower2.jpg" class="img-fluid rounded" %}
     <p style="font-size: 0.8rem; text-align: center; margin-top: 4px;">amelia and i's joint bouquet | 11.25.25</p>
