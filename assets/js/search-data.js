@@ -425,8 +425,8 @@ ninja.data = [{
           description: "london, uk | may 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-on-sauntering-about-west-village",
-          title: 'on sauntering about west village',
+            },},{id: "projects-guffawing-about-west-village",
+          title: 'guffawing about west village',
           description: "manhattan, nyc | june 20th, 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
