@@ -2,11 +2,11 @@
 layout: page
 title: on sauntering about west village 
 description: manhattan, nyc | june 20th, 2026
-img: stopby.jpg
+img: assets/img/stopby.jpg
 importance: 3
 category: work
 ---
-Saturday afternoon on the island of Manhattan, and Amelia and I had not a care in the world. We walked from home in Financial District on the West Side Highway to reach Rhythym Zero, where we stood in a not ungodly line and were asked—three times—why we were standing in line (blackberry pie matcha), followed by, "is matcha even that good?" 
+Saturday afternoon on the island of Manhattan, and Amelia and I had not a care in the world. We walked from home in Financial District on the West Side Highway to reach Rhythm Zero, where we stood in a not ungodly line and were asked—three times—why we were standing in line (blackberry pie matcha), followed by, "is matcha even that good?" 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,20 +36,6 @@ Saturday afternoon on the island of Manhattan, and Amelia and I had not a care i
 <div class="caption">
     Enjoying ham and gruyere crepe at our favorite French cafe
 </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/meadowlane.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/patch.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/frame.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Enjoying ham and gruyere crepe at our favorite French cafe
 </div>
 </div>
 <div class="row">
