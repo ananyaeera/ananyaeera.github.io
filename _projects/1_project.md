@@ -3,7 +3,7 @@ layout: page
 title: new york city birthday bash
 description: tribeca, manhattan | november 2025
 img: assets/img/four.jpeg
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
