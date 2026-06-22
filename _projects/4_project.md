@@ -1,6 +1,6 @@
 ---
 layout: page
-title: on sauntering about west village 
+title: guffawing about west village 
 description: manhattan, nyc | june 20th, 2026
 img: assets/img/frame.jpg
 importance: 1
