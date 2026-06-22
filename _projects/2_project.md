@@ -3,7 +3,7 @@ layout: page
 title: summering in london
 description: london, uk | may 2025
 img: assets/img/bookstore.jpg
-importance: 2
+importance: 3
 category: work
 giscus_comments: true
 ---
