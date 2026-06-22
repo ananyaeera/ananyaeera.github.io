@@ -425,11 +425,6 @@ ninja.data = [{
           description: "london, uk | may 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-my-monthlong-escapade-to-manhattan",
-          title: 'my monthlong escapade to manhattan',
-          description: "nyc | feb 2026",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-on-sauntering-about-west-village",
           title: 'on sauntering about west village',
           description: "manhattan, nyc | june 20th, 2026",
