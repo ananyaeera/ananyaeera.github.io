@@ -7,6 +7,31 @@ nav_order: 6
 description: Paladar is Cuban for intimate cafe or eatery. I've adopted it here to discuss any place I felt was significant enough to review. Enjoy :)
 ---
 <div style="margin-bottom: 40px;">
+  <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Hawa Smoothie | June 24th, 2026</p>
+  <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍Upper East Side, Manhattan</p>
+
+  <div class="row row-cols-3 g-2">
+    <div class="col">
+      <a href="{{ '/assets/img/aryahawa.jpg' | relative_url }}" data-lightbox="ham">
+        <img src="{{ '/assets/img/aryahawa.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/hawa.jpg' | relative_url }}" data-lightbox="melita">
+        <img src="{{ '/assets/img/hawa.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/mehawa.jpg' | relative_url }}" data-lightbox="cafec">
+        <img src="{{ '/assets/img/mehawa.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+  </div>
+
+  <p style="font-size: 0.85rem; margin-top: 12px;">Hawa Smoothie is hands-down, unequivocally the best smoothie I have ever had in my entire life. Here, Arya and I had the mango passionfruit lychee smoothie on bouquet-making date in Central Park. It genuinely tastes like refreshing nectar after surfing on a tropical island and also the cure to depression, God it's an absolute summer staple. Reminds me of Frooti but even better. There's no added sugar either. I cannot stress enough how absolutely amazing this smoothie is. Oh my God. I get it every time I am in the city. Delightful. </p>
+</div>
+
+<div style="margin-bottom: 40px;">
   <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Cafe C | June 20th, 2026</p>
   <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍West Village, Manhattan</p>
 
