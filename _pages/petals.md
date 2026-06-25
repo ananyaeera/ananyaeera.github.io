@@ -6,6 +6,17 @@ permalink: /petals/
 nav: true
 nav_order: 5
 ---
+<div style="display: flex; justify-content: center; gap: 12px; margin-bottom: 12px;">
+  <div style="width: 33%;">
+    {% include figure.liquid path="assets/img/thebou.jpg" class="img-fluid rounded" %}
+    <p style="font-size: 0.8rem; text-align: center; margin-top: 4px;">arya + ananya's summer in new york | 6.24.26</p>
+  </div>
+  <div style="width: 33%;">
+    {% include figure.liquid path="assets/img/bbpeony.jpg" class="img-fluid rounded" %}
+    <p style="font-size: 0.8rem; text-align: center; margin-top: 4px;">peonies + baby's breath | 6.21.26 </p>
+  </div>
+</div>
+
 <div style="columns: 3; gap: 12px;">
   <div style="break-inside: avoid; margin-bottom: 12px;">
     {% include figure.liquid path="assets/img/flower1.jpg" class="img-fluid rounded" %}
