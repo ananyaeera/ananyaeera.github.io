@@ -12,13 +12,13 @@ description: Paladar is Cuban for intimate cafe or eatery. I've adopted it here 
 
   <div class="row row-cols-3 g-2">
     <div class="col">
-      <a href="{{ '/assets/img/ambiance.jpg' | relative_url }}" data-lightbox="ham">
-        <img src="{{ '/assets/img/ambiance.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      <a href="{{ '/assets/img/ambi.jpg' | relative_url }}" data-lightbox="ham">
+        <img src="{{ '/assets/img/ambi.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
       </a>
     </div>
     <div class="col">
-      <a href="{{ '/assets/img/canele.jpg' | relative_url }}" data-lightbox="melita">
-        <img src="{{ '/assets/img/canele.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      <a href="{{ '/assets/img/martin.jpg' | relative_url }}" data-lightbox="melita">
+        <img src="{{ '/assets/img/martin.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
       </a>
     </div>
     <div class="col">
