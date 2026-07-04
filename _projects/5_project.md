@@ -1,24 +1,22 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: juning in manhattan
+description: new york city|june 2026
+img: assets/img/upside.jpg
+importance: 1
+category: work
 ---
+Arranging bouquets in Central Park, savoring a canele at Patisserie Vanessa on Upper East, running into my long-lost cousin at a bar in East Village--New York, where do I even begin?
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/emoji.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    No one in this world has made me laugh like Amelia, my best friend, mi alma gemela, mi media naranja.
+</div>
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
