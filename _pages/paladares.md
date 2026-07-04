@@ -7,6 +7,32 @@ nav_order: 6
 description: Paladar is Cuban for intimate cafe or eatery. I've adopted it here to discuss any place I felt was significant enough to review. Enjoy :)
 ---
 <div style="margin-bottom: 40px;">
+  <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Patisserie Vanessa | June 26th, 2026</p>
+  <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍Upper East Side, Manhattan</p>
+
+  <div class="row row-cols-3 g-2">
+    <div class="col">
+      <a href="{{ '/assets/img/ambiance.jpg' | relative_url }}" data-lightbox="ham">
+        <img src="{{ '/assets/img/ambiance.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/canele.jpg' | relative_url }}" data-lightbox="melita">
+        <img src="{{ '/assets/img/canele.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/vanessa.jpg' | relative_url }}" data-lightbox="cafec">
+        <img src="{{ '/assets/img/vanessa.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+  </div>
+
+  <p style="font-size: 0.85rem; margin-top: 12px;">I walked around 20 blocks to reach Patisserie Vanessa on a hot summer day in New York City. It was a very sweet, minimalist French café on the Upper East. I got the canele, a dark, chewy, carmelized, waxy pastry with custard-like vanilla and rum filling originally made in Bordeaux. At first, I felt it was an interesting texture and it didn't taste too sweet, but I appreciated how committed the cafe seemed to being French. I didn't realize how phenomenally artisan the canele actually was until I tried one for the second time at a different cafe in Chicago, which did not even remotely compare. I also had such a lovely conversation with Martin Stolzenberg, an Upper East side local who grew up in Brooklyn, whose 90th birthday was coming up (read Juning in Manhattan)! I'll be coming back for the canele to see if I truly love it. </p>
+</div>
+
+
+<div style="margin-bottom: 40px;">
   <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Hawa Smoothie | June 24th, 2026</p>
   <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍Upper East Side, Manhattan</p>
 
