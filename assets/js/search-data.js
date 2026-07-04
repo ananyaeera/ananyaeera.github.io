@@ -430,9 +430,9 @@ ninja.data = [{
           description: "manhattan, nyc | june 20th, 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-juning-in-manhattan",
+          title: 'juning in manhattan',
+          description: "new york city|june 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
