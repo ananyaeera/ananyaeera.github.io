@@ -7,6 +7,31 @@ nav_order: 6
 description: Paladar is Cuban for intimate cafe or eatery. I've adopted it here to discuss any place I felt was significant enough to review. Enjoy :)
 ---
 <div style="margin-bottom: 40px;">
+  <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Catch NYC | June 27th, 2026</p>
+  <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍Meatpacking District, Manhattan</p>
+
+  <div class="row row-cols-3 g-2">
+    <div class="col">
+      <a href="{{ '/assets/img/catch.jpg' | relative_url }}" data-lightbox="ham">
+        <img src="{{ '/assets/img/catch.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/oval.jpg' | relative_url }}" data-lightbox="melita">
+        <img src="{{ '/assets/img/oval.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/hitme.jpg' | relative_url }}" data-lightbox="cafec">
+        <img src="{{ '/assets/img/hitme.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+  </div>
+
+  <p style="font-size: 0.85rem; margin-top: 12px;">I am not even kidding, this is one of the best restaurants I've ever been to. Amelia and I got the Catch roll, with crab + salmon + miso-honey, which they flame in front of you, which was delicious. We also got the crispy shrimp with spicy mayo + tobiko, and oh my God, I could bowls of that, it was actually scrumptious and so savory and flavorful. The brussels sprouts were great too, and their complimentary pretzel + butter were so soft and mouth-watering. The drinks were impressive--Amelia and I got the non-alcoholic lychee martini and watermelon mojito--and lychee martini is my favorite drink now. No question. What was hilarious was that Amelia said it was my birthday in hopes of getting dessert, but what was even more funny--she actually turned it into my early birthday dinner since I won't be in NYC this September. The Hit Me cake was bonkers, so delicious, you can't go wrong with chocolate and ice cream. All around, phenomenal experience. Would come back again, and would be very excited to try different locations too. </p>
+</div>
+
+<div style="margin-bottom: 40px;">
   <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Cafe Mulberry | June 27th, 2026</p>
   <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍Nolita, Manhattan</p>
 
