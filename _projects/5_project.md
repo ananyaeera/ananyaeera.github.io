@@ -3,7 +3,7 @@ layout: page
 title: juning in manhattan
 description: new york city|june 2026
 img: assets/img/upside.jpg
-importance: 1
+importance: 2
 category: work
 ---
 Arranging bouquets in Central Park, savoring a canele at Patisserie Vanessa on Upper East, running into my long-lost cousin at a bar in East Village--New York, where do I even begin?
