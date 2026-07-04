@@ -6,7 +6,17 @@ img: assets/img/upside.jpg
 importance: 2
 category: work
 ---
-Arranging bouquets in Central Park, savoring a canele at Patisserie Vanessa on Upper East, running into my long-lost cousin at a bar in East Village--New York, where do I even begin?
+My absolute highlights of this New York City trip:
+- Arya and I arrange flower bouquets on a perfect day in Central Park
+- We gallivant SoHo art galleries and run into Emrata and get a tour of The Wedding Show (read this NYT article: https://www.nytimes.com/2026/06/19/style/sara-maliki-pietro-alexander-wedding.html) from Pietro himself
+- Amelia and I go to Nobu with her dad's high school best friend's son, Jack, who was actually hilarious (do you know what LARPing is?)
+- Nilay, my twin (our last names are so similar), shows me his epic baseball card collection
+- Ikenna and I have the Maison Pickle bread that cures depression and go on a 24-block digestion walk
+- I meet my long-lost cousin that I had seen a photo of a decade ago at a bar in East Village
+- Amelia and I recreate UCLA and have our see you later dinner at Catch NYC, which she somehow cleverly turns into my birthday dinner
+- Amelia and I go on the BEAST Speedboat
+- & so much more
+
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -14,53 +24,40 @@ Arranging bouquets in Central Park, savoring a canele at Patisserie Vanessa on U
     </div>
 </div>
 <div class="caption">
-    No one in this world has made me laugh like Amelia, my best friend, mi alma gemela, mi media naranja.
+    No one in this world has made me laugh like Amelia, my best friend, mi alma gemela, mi media naranja. I laughed more in my week with Amelia than I have all year, probably.
 </div>
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/keshav.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/central.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blanket.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Arya and her boyfriend, Keshv, who's a Sinai med student and gracefully exited his afternoon job to take photos of Arya and I + the flowers.
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ikenna.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/church.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/nilay.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+   Ikenna and I's spot is Maison Pickle, and the portion sizes are actually monstrous + my walk to Whole Foods FiDi + my twinnem Nilay
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
 {% raw %}
 
