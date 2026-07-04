@@ -7,6 +7,31 @@ nav_order: 6
 description: Paladar is Cuban for intimate cafe or eatery. I've adopted it here to discuss any place I felt was significant enough to review. Enjoy :)
 ---
 <div style="margin-bottom: 40px;">
+  <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Cafe Mulberry | June 27th, 2026</p>
+  <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍Nolita, Manhattan</p>
+
+  <div class="row row-cols-3 g-2">
+    <div class="col">
+      <a href="{{ '/assets/img/mulberry.jpg' | relative_url }}" data-lightbox="ham">
+        <img src="{{ '/assets/img/mulberry.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/bread.jpg' | relative_url }}" data-lightbox="melita">
+        <img src="{{ '/assets/img/bread.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+    <div class="col">
+      <a href="{{ '/assets/img/rainy.jpg' | relative_url }}" data-lightbox="cafec">
+        <img src="{{ '/assets/img/rainy.jpg' | relative_url }}" class="img-fluid rounded" style="aspect-ratio: 1; object-fit: cover;">
+      </a>
+    </div>
+  </div>
+
+  <p style="font-size: 0.85rem; margin-top: 12px;">Sophia, Amelia and I went to Cafe Mulberry on a rainy SoHo shopping day. We came around aperitif hour, where they were switching their menu from brunch to dinner, so we didn't get the full menu experience. Here, we had the bread with butter and the oeufs mimosa, which was deviled eggs, smoked trout roe, and chervil. I really enjoyed the oeufs mimosa. I loved the butter here, though. It was such a poor man's meal, bread and butter--and some of the bread wasn't even all that great (sourdough was the best, but you can't really mess up sourdough)--but the butter, my God, I really, really loved it. Plus, it was only $8, and they gave you more butter if you asked. Very slow, rainy afternoon French cafe moment. </p>
+</div>
+
+<div style="margin-bottom: 40px;">
   <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 4px;">Patisserie Vanessa | June 26th, 2026</p>
   <p style="font-size: 0.85rem; margin-top: -8px; margin-bottom: 12px;">📍Upper East Side, Manhattan</p>
 
