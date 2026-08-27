@@ -2,7 +2,7 @@
 layout: book-review
 title: Thinking in Bets
 author: Annie Duke
-cover: bets.jpg
+cover: assets/img/bets.jpg
 date: 
 started:
 finished: 
